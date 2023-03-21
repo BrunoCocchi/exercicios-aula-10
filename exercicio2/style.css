@@ -1,0 +1,8 @@
+.texto-longo {
+    width: 300px;
+    height: 200px;
+    border: 1px dotted black;
+    margin: 5px 8px;
+    padding: 6px 9px;
+    overflow: auto;
+  }
